@@ -1,0 +1,10 @@
+{
+"author": "Variable",
+"description": "Search layer by name",
+"display_name": "Layer Search - Search layer by name",
+"license": "MIT",
+"name": "LayerSearch",
+"nodes": ["Main.tscn"],
+"supported_api_versions": [8],
+"version": "0.1"
+}
